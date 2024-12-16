@@ -1,0 +1,4 @@
+# Ignore these directories
+data/
+logs/
+build/
